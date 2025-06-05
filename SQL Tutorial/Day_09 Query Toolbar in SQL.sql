@@ -1,0 +1,17 @@
+--Query Toolbar in SQL
+--1)Open file button 
+--2)Save button 
+--3)Edit button 
+	--1)find 
+	--2)Replace 
+	--3)jump
+	--4)Indent
+	--5)unindent
+	--6)Toogle comment
+	--7)Toogle case 
+	--8)clear Query
+	--9)Format Query
+
+--4)Run Button
+--5)Explain Button 
+--6)Explain and Analyze.
